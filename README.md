@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3941-password-strength) |
+## String
+|  |
+| ------- |
+| [3941-password-strength](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3941-password-strength) |
 <!---LeetCode Topics End-->
