@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
