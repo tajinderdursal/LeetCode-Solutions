@@ -9,8 +9,8 @@ public:
         }
         for ( i,j;i<arr.size();i++){
             if(arr[i]==0){
-                count++;
-               
+                  count++;
+                 
             }
            else{ nums[j]=arr[i];
             j++;
