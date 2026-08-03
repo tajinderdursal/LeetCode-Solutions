@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [3941-password-strength](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## String
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -76,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 <!---LeetCode Topics End-->
