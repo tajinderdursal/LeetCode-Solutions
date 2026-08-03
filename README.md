@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1470-shuffle-the-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
