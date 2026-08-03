@@ -6,6 +6,7 @@ public:
             int carray=a&b;
             a=a^b;
             b=carray<<1;
+            
 
         }
         return a;
