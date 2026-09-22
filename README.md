@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
