@@ -4,7 +4,7 @@ public:
        set<int> s(nums1.begin(),nums1.end()); 
         vector<int> arr;
         for(int i:nums2){
-            if(s.count(i)){
+            if(s.find(i)!=s.end()){
                 arr.push_back(i);
                 s.erase(i);
             }
