@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 ## Hash Table
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
