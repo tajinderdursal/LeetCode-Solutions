@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
          vector<int> result(nums.size());
-            int pindex=0,nindex=1;
+        int pindex=0,nindex=1;
         for(int i=0;i<nums.size();i++){
            
             if(nums[i]<0){
