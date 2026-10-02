@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3941-password-strength](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## String
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
