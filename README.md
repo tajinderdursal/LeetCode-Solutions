@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [2235-add-two-integers](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
 |  |
