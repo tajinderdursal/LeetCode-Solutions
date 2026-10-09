@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
