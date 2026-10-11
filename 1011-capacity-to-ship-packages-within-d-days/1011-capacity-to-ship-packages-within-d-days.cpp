@@ -1,7 +1,7 @@
 class Solution {
     bool check(vector<int>& arr,int mid, int days){
         int sum=0;
-        int count=0;
+        int count=1;
         for(int i=0;i<arr.size();i++){
             if(sum+arr[i]<=mid){
                 sum=sum+arr[i];
@@ -13,7 +13,7 @@ class Solution {
               count++;
             }
         }
-        count++;
+        
         return count<=days;
     }
     
