@@ -8,8 +8,8 @@ class Solution {
                 
             }
             else{
-              sum=0;
-              sum+=arr[i];
+              
+              sum=arr[i];
               count++;
             }
         }
