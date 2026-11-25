@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [1021-remove-outermost-parentheses](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3941-password-strength](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3941-password-strength) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Union-Find
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
