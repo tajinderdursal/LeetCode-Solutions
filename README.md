@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [1021-remove-outermost-parentheses](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3941-password-strength](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/3941-password-strength) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1922-count-good-numbers](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/tajinderdursal/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
